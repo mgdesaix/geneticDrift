@@ -1,2 +1,2 @@
 # geneticDrift
-genetic drift simulation
+genetic drift simulation with Shiny
